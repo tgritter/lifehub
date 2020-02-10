@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+cd server
+heroku local -f Procfile.dev
+example@mail.com
+123123123

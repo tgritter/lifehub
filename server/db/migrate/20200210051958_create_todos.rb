@@ -1,4 +1,4 @@
-class Todo < ActiveRecord::Migration[5.2]
+class CreateTodos < ActiveRecord::Migration[5.2]
   def change
     create_table :todos do |t|
       t.text :description
